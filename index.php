@@ -10,17 +10,17 @@
 <body>
 <
 <h1>Cupcake Fundraiser</h1>
-<form method = "post" action = "confirm.php">
+<form method = "post" action = "process.php">
     <p>Your Name:</p>
-    <input type="text" value = "Please input your name">
+    <input type="text" value = "Please input your name" name="name">
     <p>Cupcake flavors</p>
-    <input type = 'checkbox' name = 'flavor[]'> The Grasshopper  <br>
-    <input type = 'checkbox' name = 'flavor[]'> Whiskey Maple Bacon <br>
-    <input type = 'checkbox' name = 'flavor[]'> Carrot Walnut <br>
-    <input type = 'checkbox' name = 'flavor[]'> Salted Caramel Cupcake <br>
-    <input type = 'checkbox' name = 'flavor[]'> Red Velvet <br>
-    <input type = 'checkbox' name = 'flavor[]'> Lemon Drop <br>
-    <input type = 'checkbox' name = 'flavor[]'> Tiramisu <br> <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "grass"> The Grasshopper  <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "bacon"> Whiskey Maple Bacon <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "walnut"> Carrot Walnut <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "caramel"> Salted Caramel Cupcake <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "velvet"> Red Velvet <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "lemon"> Lemon Drop <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "tiramisu"> Tiramisu <br> <br>
     <input type = 'submit' value = "Order">
 </form>
 
