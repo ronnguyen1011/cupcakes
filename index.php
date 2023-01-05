@@ -14,13 +14,13 @@
     <p>Your Name:</p>
     <input type="text" value = "Please input your name" name="name">
     <p>Cupcake flavors</p>
-    <input type = 'checkbox' name = 'flavor[]' value = "grass"> The Grasshopper  <br>
-    <input type = 'checkbox' name = 'flavor[]' value = "bacon"> Whiskey Maple Bacon <br>
-    <input type = 'checkbox' name = 'flavor[]' value = "walnut"> Carrot Walnut <br>
-    <input type = 'checkbox' name = 'flavor[]' value = "caramel"> Salted Caramel Cupcake <br>
-    <input type = 'checkbox' name = 'flavor[]' value = "velvet"> Red Velvet <br>
-    <input type = 'checkbox' name = 'flavor[]' value = "lemon"> Lemon Drop <br>
-    <input type = 'checkbox' name = 'flavor[]' value = "tiramisu"> Tiramisu <br> <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "The Grasshopper"> The Grasshopper  <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "Whiskey Maple Bacon"> Whiskey Maple Bacon <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "Carrot Walnut"> Carrot Walnut <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "Salted Caramel Cupcake"> Salted Caramel Cupcake <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "Red Velvet"> Red Velvet <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "Lemon Drop"> Lemon Drop <br>
+    <input type = 'checkbox' name = 'flavor[]' value = "Tiramisu"> Tiramisu <br> <br>
     <input type = 'submit' value = "Order">
 </form>
 
