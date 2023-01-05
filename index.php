@@ -8,11 +8,10 @@
     <title>cupcake</title>
 </head>
 <body>
-<
 <h1>Cupcake Fundraiser</h1>
 <form method = "post" action = "process.php">
     <p>Your Name:</p>
-    <input type="text" value = "Please input your name" name="name">
+    <input type="text" placeholder="Please enter your name" name="name">
     <p>Cupcake flavors</p>
     <input type = 'checkbox' name = 'flavor[]' value = "The Grasshopper"> The Grasshopper  <br>
     <input type = 'checkbox' name = 'flavor[]' value = "Whiskey Maple Bacon"> Whiskey Maple Bacon <br>
