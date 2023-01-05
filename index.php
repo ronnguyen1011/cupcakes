@@ -1,3 +1,11 @@
+<!--
+Names: Ron Nguyen, Jack (Zhenhuai) Zeng
+Date: 1/5/2023
+URL: https://github.com/ronnguyen1011/cupcakes ||| https://nguyenron.greenriverdev.com/328/cupcakes/
+Description: This program contains a form for a cupcake fundraiser. The program will show the options and total price
+that the user selected
+-->
+
 <!doctype html>
 <html lang="en">
 <head>
